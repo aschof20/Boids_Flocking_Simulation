@@ -124,22 +124,3 @@ I've provided this code by writing a solution and then cutting back from it.
 But it's possible you might not like some parts of my code. You can delete
 and change *any code you like* -- your task is to write the simulation, not
 to retain my code.
-
-## Marking
-
-The marking is aimed to be able to be done quickly, with the written feedback being
-more formative and open-ended.
-
-Functionality: 
-
-* The boids simulation works: 7
-* Adding a boid by clicking the canvas works: 1
-* Wind works: 1
-* Startle works: 1
-* Regenesis works: 1 
-* Action replay works: 1
-
-Quality: 
-
-* Boid uses functional rather than imperative code: 3
-* Overall quality judgment (readable, tidy, concise): 5
